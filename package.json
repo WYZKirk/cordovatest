@@ -1,0 +1,17 @@
+{
+  "name": "com.plugin.myPlugin",
+  "version": "0.0.1",
+  "description": "",
+  "cordova": {
+    "id": "com.plugin.myPlugin",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC"
+}
